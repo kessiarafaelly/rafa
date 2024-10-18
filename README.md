@@ -1,0 +1,1 @@
+Este repositorio está destinado a oficina de git e github
